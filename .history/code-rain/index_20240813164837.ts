@@ -1,1 +1,0 @@
-let canvas:HTMLCanvasElement = document
