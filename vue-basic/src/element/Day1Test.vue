@@ -36,8 +36,8 @@
     <el-button type="success" :icon="Check" circle />
     <el-button type="info" :icon="Message" circle />
     <el-button type="warning" :icon="Star" circle />
-    <el-button type="danger" :icon="Delete" circle />
-  </div>
+    <el-button type="danger" :icon="Delete" circle>测试</el-button>
+   </div>
 </template>
 
 <script lang="ts" setup>
